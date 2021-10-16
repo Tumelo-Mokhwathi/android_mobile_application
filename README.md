@@ -2,7 +2,7 @@
 The application is a mobile application which uses jwt authentication to access the application.
 
 # Instruction on how to use the application
-* npm run install - to install the application dependencies.
+* npm install - to install the application dependencies.
 * npm run cordova-serve-android - to run the application with android platform.
 * npm run lint - to fix the application errors.
 
