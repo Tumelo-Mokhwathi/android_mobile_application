@@ -1,0 +1,174 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Tumelo",
+      "surname": "Mokhwathi",
+      "email": "tumelo@gmail.com",
+      "phone": "0711387433",
+      "username": "tumelo",
+      "password": "doctor20",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Victoria",
+      "surname": "Ketse",
+      "email": "ketse@gmail.com",
+      "phone": "0721286466",
+      "username": "ketse",
+      "password": "ketse20",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Doctor",
+      "surname": "Ketse",
+      "email": "doctor@gmail.com",
+      "phone": "0731687488",
+      "username": "doctor",
+      "password": "tumelo20",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Maxwell",
+      "surname": "Ketse",
+      "email": "maxwell@gmail.com",
+      "phone": "0731687488",
+      "username": "doctor",
+      "password": "doctor20",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Test",
+      "surname": "Test",
+      "email": "test@test.com",
+      "phone": "0731687488",
+      "username": "test",
+      "password": "test@20",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Test",
+      "surname": "Test",
+      "email": "test@test.com",
+      "phone": "0731687488",
+      "username": "test",
+      "password": "test@20",
+      "active": true
+    },
+    {
+      "name": "Test",
+      "surname": "Test",
+      "email": "test@test.com",
+      "phone": "0731687488",
+      "username": "test",
+      "password": "test@20",
+      "id": 7,
+      "active": true
+    },
+    {
+      "name": "Tshepo",
+      "surname": "Seloni",
+      "email": "test@test2.com",
+      "phone": "0731687488",
+      "username": "test",
+      "password": "test@20",
+      "id": 8,
+      "active": true
+    },
+    {
+      "name": "Matome",
+      "surname": "Mpherona",
+      "email": "email@email.com",
+      "phone": "0731687488",
+      "username": "username",
+      "password": "Matome@20",
+      "id": 9,
+      "active": true
+    },
+    {
+      "name": "Catherine",
+      "surname": "Bontle",
+      "email": "cath@email.com",
+      "phone": "0731687488",
+      "username": "Cathy",
+      "password": "Cathy@20",
+      "id": 10,
+      "active": true
+    },
+    {
+      "name": "Dipuo",
+      "surname": "Mahlangu",
+      "email": "dipuo@gmail.com",
+      "phone": "0635242526",
+      "username": "Dipuo",
+      "password": "Dipuo@20",
+      "id": 11,
+      "active": true
+    },
+    {
+      "name": "name one",
+      "surname": "surname one",
+      "email": "email@email.com",
+      "phone": "0731687488",
+      "username": "username",
+      "password": "username@20",
+      "id": 12,
+      "active": true
+    },
+    {
+      "name": "name tow updated again",
+      "surname": "happy to updated",
+      "email": "email@email.com",
+      "phone": "0731687488",
+      "username": "username",
+      "password": "username@20",
+      "active": false,
+      "id": 14
+    },
+    {
+      "name": "testing",
+      "surname": "testing",
+      "email": "testingl@testing.com",
+      "phone": "0731687488",
+      "username": "testing",
+      "password": "testing@20",
+      "id": 15,
+      "active": true
+    },
+    {
+      "name": "Test Active",
+      "surname": "Test Active",
+      "email": "actuve@test.com",
+      "phone": "0872627262",
+      "username": "test",
+      "password": "Active@20",
+      "active": true,
+      "id": 16
+    },
+    {
+      "name": "Thembi",
+      "surname": "Thembi",
+      "email": "Thembi@gmail.com",
+      "phone": "0785242311",
+      "username": "Thembi",
+      "password": "Thembi@20",
+      "active": true,
+      "id": 20
+    },
+    {
+      "name": "Thabo",
+      "surname": "Mahlangu",
+      "email": "thabo@gmail.com",
+      "phone": "0763332232",
+      "username": "Thabo20",
+      "password": "Thembi@20",
+      "active": false,
+      "id": 22
+    }
+  ]
+}
