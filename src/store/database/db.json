@@ -2,22 +2,22 @@
   "users": [
     {
       "id": 1,
-      "name": "Tumelo",
-      "surname": "Mokhwathi",
+      "name": "Thabo",
+      "surname": "Mokoena",
       "email": "tumelo@gmail.com",
-      "phone": "0711387433",
-      "username": "tumelo",
-      "password": "doctor20",
+      "phone": "0711386433",
+      "username": "thabo",
+      "password": "thabo20",
       "active": true
     },
     {
       "id": 2,
-      "name": "Victoria",
-      "surname": "Ketse",
-      "email": "ketse@gmail.com",
+      "name": "Mercy",
+      "surname": "Moeketse",
+      "email": "mercy@gmail.com",
       "phone": "0721286466",
-      "username": "ketse",
-      "password": "ketse20",
+      "username": "Mercy",
+      "password": "Mercy@20",
       "active": true
     },
     {
